@@ -1,0 +1,12 @@
+.loginputs {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+  border-radius: 5px !important;
+}
+
+.ant-input {
+  color: white !important;
+}
+
+.ant-input.ant-input-lg {
+  background-color: transparent !important;
+}

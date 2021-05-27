@@ -1,0 +1,19 @@
+.selectButton {
+  background-color: #427a09;
+  border-color: #427a09;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.rejectButton {
+  background-color: #F64A3F;
+  border-color: #F64A3F;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.userSelection {
+  margin: 5;
+  padding: 5;
+  border-radius: 5;
+}
